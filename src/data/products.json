@@ -1,6 +1,20 @@
 [
   {
-    "__typename": "Product",
-    "name": "Pikachu"
+    "__typename": "Drink",
+    "name": "Coke",
+    "slug": "coke",
+    "description": "Drink 1"
+  },
+  {
+    "__typename": "Drink",
+    "name": "Fanta",
+    "slug": "fanta",
+    "description": "Drink 2"
+  },
+  {
+    "__typename": "Drink",
+    "name": "Vimto",
+    "slug": "vimto",
+    "description": "Drink 3"
   }
 ]
